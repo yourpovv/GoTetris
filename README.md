@@ -6,6 +6,7 @@
 
 [![GitHub](https://img.shields.io/github/stars/yourpovv/GOOB?style=social)](https://github.com/yourpovv/GOOB)
 
+https://github.com/user-attachments/assets/002c9e99-7696-4a16-b8a8-138b317f6979
 
 </div>
 
