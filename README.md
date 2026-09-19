@@ -4,7 +4,7 @@
 
 **Terminal tetris game built with Go, Bubbletea and Lipgloss.**
 
-[![GitHub](https://img.shields.io/github/stars/yourpovv/GOOB?style=social)](https://github.com/yourpovv/GOOB)
+[![GitHub](https://img.shields.io/github/stars/yourpovv/GoTetris?style=social)](https://github.com/yourpovv/GoTetris)
 
 https://github.com/user-attachments/assets/002c9e99-7696-4a16-b8a8-138b317f6979
 
